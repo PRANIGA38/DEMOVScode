@@ -1,0 +1,16 @@
+<html>
+<head>
+<style>
+h1{text-docoration:overline;}
+h2{text-docoration:line-through;}
+h3{text-docoration:underline;}
+p.ex{text-decoration:overline unlerline;}
+</style>
+</head>
+<body>
+<h1> overline text decoration</h1>
+<h2> line-through text decoration </h2>
+<h3>underline text decoration </h3>
+<p class="ex">Overline and underline text decoration.</p>
+</body>
+</html>
